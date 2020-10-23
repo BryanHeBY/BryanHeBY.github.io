@@ -5,3 +5,132 @@
 - [my github page](https://github.com/BryanHeBY)
 
 ### my favorite pages
+
+
+
+
+
+### OI pages
+
+- [my luogu blog](https://www.luogu.com.cn/blog/528hby/#)
+
+# **模板大索引**
+
+------------
+
+#### 一、位运算—数论—组合数学
+##### 位运算
+1. [（归并、树状数组）求逆序对](https://528hby.blog.luogu.org/tem-msort)
+2. [矩阵快速幂](https://528hby.blog.luogu.org/tem-matrix-qpow)
+3. [ST算法](https://528hby.blog.luogu.org/tem-ST)
+
+##### 欧几里得算法
+1. 最大公因数
+2. 扩展欧几里得
+
+##### 逆元
+1. [逆元](https://528hby.blog.luogu.org/tem-inv)
+2. [线性求逆元](https://528hby.blog.luogu.org/tem-linear-getting-inv)
+
+##### 素数及素数筛
+1. 欧拉线性筛
+2. [线性筛求欧拉函数](https://528hby.blog.luogu.org/tem-euler)
+3. 线性筛求约数（个数）和*
+4. miller_rabin素数判定*
+
+##### 其他
+1. 中国剩余定理*
+2. [高斯消元法](https://528hby.blog.luogu.org/tem-guass)*
+
+##### 组合数学
+1. [卢卡斯定理](https://528hby.blog.luogu.org/tem-lucas)*
+
+##### 多项式算法
+
+1. [FFT](https://528hby.blog.luogu.org/tem-fft)
+2. [NTT](https://528hby.blog.luogu.org/tem-ntt)
+
+------------
+
+#### 二、图论
+
+##### [最短路](https://528hby.blog.luogu.org/tem-shortest-path)
+
+1. [最小环](https://528hby.blog.luogu.org/tem-min-circle)
+
+##### 树
+1. 树的重心
+2. [树的直径](https://528hby.blog.luogu.org/tem-the-diameter-of-tree)
+3. [lca+树上倍增](https://528hby.blog.luogu.org/tem-lca)
+4. [最小生成树](https://528hby.blog.luogu.org/tem-minimum-spanning-tree)
+
+##### tarjan（及其他）算法
+
+[tarjan算法学习博客](https://blog.csdn.net/Prediction__/article/details/100030166)
+
+###### 无向图
+
+1. [割点（顶）](https://528hby.blog.luogu.org/tem-cut-node)
+2. [桥+e-dcc缩点](https://528hby.blog.luogu.org/tem-e-dcc)
+3. v-dcc缩点
+4. 欧拉（回）路
+
+###### 有向图
+
+1. [scc+缩点+topo](https://528hby.blog.luogu.org/tem-scc)
+
+##### 二分图
+
+1. 二分图判定
+2. [二分图最大匹配（匈牙利算法）](https://528hby.blog.luogu.org/tem-bipartite-graph-maximum-matching)
+
+##### 网络流
+
+1. [最大流](https://528hby.blog.luogu.org/tem-mflow)
+2. 费用流
+
+------------
+
+#### 三、字符串算法
+
+1. 字符串哈希
+- [双hash判等](https://528hby.blog.luogu.org/tem-di-string-hash)
+- 子串hash判等
+2. [KMP算法](https://528hby.blog.luogu.org/tem-kmp)
+3. [最小表示法](https://528hby.blog.luogu.org/tem-minimum-representation)
+4. [tire字典树](https://528hby.blog.luogu.org/tem-trie)
+5. [AC自动机](https://528hby.blog.luogu.org/tem-ac-auto)
+6. [后缀数组*](https://528hby.blog.luogu.org/tem-sa)
+7. [后缀自动机*](https://528hby.blog.luogu.org/tem-SAM)
+8. [manacher算法](https://528hby.blog.luogu.org/tem-manacher)
+9. [回文自动机*](https://528hby.blog.luogu.org/tem-pam)
+
+------------
+
+#### 四、高级数据结构
+
+1. [树状数组](https://528hby.blog.luogu.org/tem-binary-index-tree)
+- 区间加区间和树状数组*
+2. [线段树](https://528hby.blog.luogu.org/tem-segmenttree)
+- 权值线段树*
+- 动态开点线段树*
+3. 堆
+- [对顶堆](https://528hby.blog.luogu.org/tem-di-heap)
+- 带删除的堆
+- [可并堆(左偏树)](https://528hby.blog.luogu.org/tem-Le-tree)*
+4. [平衡树*](https://528hby.blog.luogu.org/tem-bst)
+- treap
+- splay
+- fhq_treap
+5. 可持久化数据结构*
+- [主席树](https://528hby.blog.luogu.org/tem-psmt)
+6. hash
+- hash判重
+- 康托展开
+7. [LCT](https://528hby.blog.luogu.org/tem-lct)
+
+------------
+
+#### 五、实用模板
+
+1. [离散化](https://528hby.blog.luogu.org/tem-discrete)
